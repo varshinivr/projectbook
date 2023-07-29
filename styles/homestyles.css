@@ -1,0 +1,44 @@
+body,html
+{
+    background-color: #1C315E;
+    height:100%;
+}
+img
+{
+  border-radius: 5%;
+  width:200px;
+  height:300px;
+}
+
+.col-md-4
+{
+  margin-bottom: 4%;
+  text-align: center;
+
+}
+.navbar
+{
+  background-color:#aac3d2;
+
+}
+.cardTitle
+{
+  color: #333;
+  font-size: 18px;
+  margin-bottom: 5px;
+
+}
+.cardAuthor
+{
+  color: #777;
+  font-size: 14px;
+  margin-bottom: 5px;
+
+}
+.cardPages
+{
+  color: #555;
+  font-size: 12px;
+  margin-bottom: 0;
+
+}
